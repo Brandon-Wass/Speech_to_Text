@@ -67,7 +67,7 @@ All events and errors are logged into `log.json` for troubleshooting and monitor
 - For other issues causing the program to crash, contact me with the details of the error so I can fix them and update the repo:
   - You can find error details in the `log.json` file that is generated in the same directory as the program when it is run.
   - Most errors can be quickly found by searching for `ERROR` in the `log.json` file.
-- `One or more keywords are not available by default.`:
+- Unexpected error: `One or more keywords are not available by default...`:
   - Choose a `keyword` from the list of default `Keywords`.
     - I have not built the program to accept custom `Keywords` that can be made on the PicoVoice dashboard.
     - This will be part of a future update to the program.
