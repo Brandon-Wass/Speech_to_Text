@@ -8,6 +8,7 @@ This repository contains a Python script that implements a robust speech-to-text
 - Automated typing using pyautogui.
 - Logging system to track operations and errors.
 - Configuration file support for easy setup and reuse.
+- Works on Windows and Linux based systems, provided the required libraries are installed.
 
 ## PicoVoice Account Setup
 - To use this script, you first need an `AccessKey` from PicoVoice. Follow these steps to set up your account and obtain the `AccessKey`:
