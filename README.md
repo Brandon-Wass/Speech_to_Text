@@ -31,7 +31,7 @@ This repository contains a Python script that implements a robust speech-to-text
 1. Clone the repository.
 2. Install the required Python libraries:
    ```bash
-   pip install pyaudio pvporcupine SpeechRecognition pyautogui
+   pip install pyaudio pvporcupine SpeechRecognition logging pyautogui
    ```
 3. Run the script with the `access_key` from your PicoVoice account and a `keyword` from the list of default `Keywords` provided above as arguments for the first time.
    ```bash
